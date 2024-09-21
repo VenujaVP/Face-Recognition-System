@@ -1,0 +1,3 @@
+Name: Barack Obama
+Age: 60
+ID: 00007

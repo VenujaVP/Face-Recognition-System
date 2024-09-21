@@ -1,0 +1,3 @@
+Name: Bill Gates
+Age: 70
+ID: 00009
